@@ -1,4 +1,3 @@
-local defaultUIName = "Wapus.Shop" -- $$$
 local connectionList = {} -- for unloading
 local playerStatus = {}
 local wapus
